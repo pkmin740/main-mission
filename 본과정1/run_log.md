@@ -3,7 +3,7 @@
 ## 1. 기본 정보
 - **선정 모델:** GPT-6
 - **실행 구분:** 본 대화 (v1 + Few-shot 예시 3건 적용, 총 18턴)
-- **본 대화:** [챗gpt-6] (https://chatgpt.com/share/6b01408b-a418-83ec-beb5-c08199974bd7)
+- **본 대화:** [챗gpt-6](https://chatgpt.com/share/6b01408b-a418-83ec-beb5-c08199974bd7)
 ---
 
 ## 2. 작업 기록
